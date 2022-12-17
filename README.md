@@ -6,6 +6,8 @@
 
 ![gabrielsmw GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsmw&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsmw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso
 
 <div style="display: inline_block"><br/>
